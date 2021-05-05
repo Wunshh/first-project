@@ -1,0 +1,5 @@
+.portfolio__image {
+    height: 589px;
+    margin: 30px 0;
+    background-image: url('../../../images/portfolio.jpg');
+  }

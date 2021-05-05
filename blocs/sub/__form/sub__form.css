@@ -1,0 +1,10 @@
+.sub__form {
+    display: grid;
+    column-gap: 74px;
+    grid-template-columns: 510px auto;
+    grid-template-rows: repeat(auto, minmax(min-content, auto));
+    min-height: 282px;
+    max-width: 1080px;
+    margin: 30px auto;
+    align-content: center;
+  }

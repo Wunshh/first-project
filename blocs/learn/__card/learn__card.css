@@ -1,0 +1,7 @@
+.learn__card {
+    display: grid;
+    grid-template-columns: auto 600px;
+    grid-template-rows: repeat(2, min-content);
+    column-gap: 30px;
+    padding: 0 120px 0 190px;
+  }

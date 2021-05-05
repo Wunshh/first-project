@@ -1,0 +1,15 @@
+.contact__link {
+    font-family: 'Titillium Web', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.25px;
+    color: #637280;
+    text-decoration: none;
+    transform: 2s ease-in;
+  }
+
+  .contact__link:hover {
+    opacity: 0.7;
+  }

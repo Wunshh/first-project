@@ -1,0 +1,7 @@
+.contact__contact-link {
+    margin-bottom: 8px;
+  }
+  
+  .contact__contact-link:last-of-type {
+    margin-bottom: 0;
+  } 

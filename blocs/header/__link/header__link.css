@@ -1,0 +1,20 @@
+.header__link {
+    margin-right: 22px;
+    font-family: 'Noto Sans', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 0.25px;
+    color: rgba(102, 102, 102, 0.85);
+    transform: 2s esae-in;
+    text-decoration: none;
+  }
+  
+  .header__link:hover {
+    opacity: 0.3;
+  }
+  
+  .header__link:nth-of-type(5n) {
+    margin-right: 0;
+  }

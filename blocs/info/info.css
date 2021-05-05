@@ -1,0 +1,8 @@
+.info {
+    display: grid;
+    grid-template-columns: repeat(3, 330px);
+    grid-template-rows: repeat(auto, minmax(min-content, auto));
+    column-gap: 30px;
+    row-gap: 63px;
+    min-height: 816px;
+  }

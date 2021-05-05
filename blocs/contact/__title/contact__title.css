@@ -1,0 +1,10 @@
+.contact__title {
+    font-family: 'Noto Sans', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
+    color: #4A4A4A;
+  }
