@@ -13,7 +13,7 @@
 2. Файловая структура проекта Nested.
 3. Проект создавался только под десктоп. 
 
-*Сcылка на проект:* 
+*Сcылка на проект:* https://wunshh.github.io/first-project/
 
 **Figma**
 * [Ссылка на макет в Figma] https://www.figma.com/file/eAb0mADMdpLlsSs0kzTMQu/Morphocode
